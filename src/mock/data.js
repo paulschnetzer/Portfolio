@@ -9,18 +9,20 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hello, my name is',
+  name: 'Paul',
+  subtitle: 'and welcome to my Portfolio',
+  cta: 'More Information',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  img: 'profile.jpeg',
+  paragraphOne:
+    'Aktuell bilde ich mich durch ein Coding Bootcamp weiter um relevante Technologien und Programmiersprachen zu lernen (Javascript, Node.js, React).',
+  paragraphTwo:
+    'Ich suche aktuell nach einer Stelle in der ich meine Programmier-Erfahrung festigen und vertiefen kann. Langfristig suche ich nach einer Position, in der ich meine HR-Kenntnisse und Programmier-Kenntnisse kombinieren kann, beispielsweise als Product-Owner, SCRUM-Master oder IT-Berater.',
+  paragraphThree: ' ',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
